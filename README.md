@@ -22,4 +22,4 @@ https://github.com/tomnomnom/httprobe
 
 
 chmod +x (filename)
-run ./poni999 +"domain name"
+run ./"tool" +"domain name"
